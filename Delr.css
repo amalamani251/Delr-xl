@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.right-text h2 {
+    font-family: "SF Pro Text", Helvetica, Arial, "Lucida Grande", "Kohinoor Devanagari", sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+    margin-left: 250px;
+    line-height: 30px;
+}
+
+.right-text h1 {
+    margin-left: 140px;
+    font-weight: 300;
+}
+
+form {
+    margin: 20px;
+}
+
+.form-group {
+    line-height: 40px;
+}
